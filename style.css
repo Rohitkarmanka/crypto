@@ -2155,7 +2155,7 @@ body.gros {
 
     .box {
     position: fixed;
-    left:0;
+    left:1rem;
     bottom:0;
     width: 600px;
     height: 300px;
