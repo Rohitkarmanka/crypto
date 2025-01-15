@@ -1125,7 +1125,7 @@ h4{
 
 body.Dash{
     min-height: 100vh;
-    background: url(images/das.jpg) no-repeat;
+    background: url(das.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -1739,7 +1739,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 110vh;
-    background: url(images/trapaym.jpg) no-repeat ;
+    background: url(trapaym.jpg) no-repeat ;
     background-size: cover;
     background-position: center;
     overflow: hidden;
