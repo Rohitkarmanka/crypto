@@ -303,7 +303,7 @@ header {
 
 body.Esti {
     min-height: 100vh;
-    background: url(images/Est.jpg) no-repeat;
+    background: url(Est.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -450,7 +450,7 @@ body.Gallery  {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/images/alon.jpg) no-repeat ;
+    background: url(alon.jpg) no-repeat ;
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -977,7 +977,7 @@ body.Spend{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/images/mpsa.jpg) no-repeat ;
+    background: url(mpsa.jpg) no-repeat ;
     background-size: cover;
     background-position: center;  
     overflow: hidden;
@@ -1677,7 +1677,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(images/trapaym.jpg) no-repeat ;
+    background: url(trapaym.jpg) no-repeat ;
     background-size: cover;
     background-position: center;
     
@@ -1776,7 +1776,7 @@ body{
 
 body.stoi{
     margin-top: 5vh;
-    background-image: url(/images/tra.jpg) no-repeat ;
+    background-image: url(tra.jpg) no-repeat ;
     background-size: flex;
     background-position: center;
 }
@@ -1892,7 +1892,7 @@ body.stoi{
 
     body.stoi {
         margin-top: 85vh; /* Slightly reduced space from top */
-        background: url('images/mnkl.jpg') no-repeat fixed; /* Background fixed and no-repeat */
+        background: url('mnkl.jpg') no-repeat fixed; /* Background fixed and no-repeat */
         background-size: cover; /* Ensure the image covers the entire screen without distortion */
         background-position: center; /* Center the background image */
         background-attachment: fixed; /* Keeps the background fixed while scrolling */
@@ -1977,7 +1977,7 @@ body.stoi{
 
 
 body.gros {
-    background-image: url(images/mnkl.jpg);
+    background-image: url(mnkl.jpg);
     background-color: #f7f7f7;
     font-size: 16px;
     color: #333;
@@ -2130,7 +2130,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background: url(images/sen.png) no-repeat;
+        background: url(sen.png) no-repeat;
         background-size: cover;
         background-position: center;
         display: flex;
