@@ -2130,7 +2130,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background: url(grot.png) no-repeat;
+        background: url(grot.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         display: flex;
