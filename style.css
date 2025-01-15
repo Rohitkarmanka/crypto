@@ -303,7 +303,7 @@ header {
 
 body.Esti {
     min-height: 100vh;
-    background: url(Est.jpg) no-repeat;
+    background: url(mon.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -2267,7 +2267,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background-image: url(head.jpg);
+        background-image: url(sen.png);
         background-size: cover;
         background-position: center;
         display: flex;
