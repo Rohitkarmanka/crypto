@@ -2130,9 +2130,9 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background: url(sen.png) no-repeat;
+        background: #fff;
         background-size: cover;
-        background-position: right top;
+        background-position: center;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -2166,8 +2166,8 @@ body.gros {
 
     .box h2 {
     color: #fff;
-    font-size: 2em;
-    font-weight: 60;
+    font-size: 1.5em;
+    font-weight: 600;
     letter-spacing: 0.1em;
     text-shadow: 0 0 10px #00b3ff, 0 0 20px #00b3ff, 0 0 40px #00b3ff,
         0 0 80px #00b3ff, 0 0 120px #00b3ff;
