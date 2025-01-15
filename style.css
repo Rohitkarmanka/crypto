@@ -2295,21 +2295,11 @@ body.gros {
     color: #fff;
     font-size: 1.5em;
     font-weight: 600;
-    letter-spacing: 0.3em;
+    letter-spacing: 0.1em;
     text-shadow: 0 0 10px #00b3ff, 0 0 20px #00b3ff, 0 0 40px #00b3ff,
         0 0 80px #00b3ff, 0 0 120px #00b3ff;
     }
 
-        .lightbar {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 10px;
-    height: 100%;
-    border-radius: 10px;
-    background: transparent;
-    z-index: 2;
-    }
 
     .topLayer {
     position: absolute;
