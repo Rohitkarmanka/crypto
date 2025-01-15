@@ -2130,7 +2130,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background: #000;
+         background: url(scary.png) no-repeat;
         background-size: cover;
         background-position: center;
         display: flex;
@@ -2154,7 +2154,8 @@ body.gros {
     }
 
     .box {
-    position: relative;
+    position: fixed;
+    bottom:0;
     width: 600px;
     height: 300px;
     display: flex;
