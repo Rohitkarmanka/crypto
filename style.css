@@ -2132,7 +2132,7 @@ body.gros {
         min-height: 100vh;
         background: url(sen.png) no-repeat;
         background-size: cover;
-        background-position: center;
+        background-position: right;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -2155,7 +2155,7 @@ body.gros {
 
     .box {
     position: relative;
-    left:-50px;
+    left:-20rem;
     width: 600px;
     height: 300px;
     display: flex;
