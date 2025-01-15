@@ -2130,7 +2130,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background: #fff;
+        background: #000;
         background-size: cover;
         background-position: center;
         display: flex;
@@ -2154,9 +2154,7 @@ body.gros {
     }
 
     .box {
-    position: fixed;
-    left:5rem;
-    bottom:0;
+    position: relative;
     width: 600px;
     height: 300px;
     display: flex;
