@@ -2130,7 +2130,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-         background: url(scary.png) no-repeat;
+         background: #000;
         background-size: cover;
         background-position: center;
         display: flex;
@@ -2154,8 +2154,7 @@ body.gros {
     }
 
     .box {
-    position: fixed;
-    bottom:0;
+    position: relative;
     width: 600px;
     height: 300px;
     display: flex;
@@ -2268,7 +2267,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background: url(sen.png) no-repeat;
+        background: #000;
         background-size: cover;
         background-position: center;
         display: flex;
@@ -2282,7 +2281,7 @@ body.gros {
         font-size: 1.5rem;
         position: fixed;
         top: 0.5rem;
-        left: 35rem;  /* Align the header to the left */
+        left: 5rem;  /* Align the header to the left */
         width: 100%;
         padding: 20px 10px;
         display: flex;
@@ -2321,7 +2320,7 @@ body.gros {
     z-index: 2;
     box-shadow: 0 0 10px #00b3ff, 0 0 20px #00b3ff, 0 0 40px #00b3ff,
         0 0 80px #00b3ff, 0 0 120px #00b3ff;
-    animation: animateLightbar 5s linear infinite;
+    animation: animateLightbar 9s linear infinite;
     }
 
     @keyframes animateLightbar {
