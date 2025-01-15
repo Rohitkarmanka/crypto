@@ -2302,7 +2302,7 @@ body.gros {
 
     .box h2 {
     color: #fff;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 600;
     letter-spacing: 0.3em;
     text-shadow: 0 0 10px #00b3ff, 0 0 20px #00b3ff, 0 0 40px #00b3ff,
@@ -2363,7 +2363,7 @@ body.gros {
         transform: translateX(0);
     }
 
-    45% {
+    35% {
         transform: translateX(100%);
     }
 
