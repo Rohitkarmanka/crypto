@@ -2302,9 +2302,9 @@ body.gros {
 
     .box h2 {
     color: #fff;
-    font-size: 1em;
+    font-size: 2em;
     font-weight: 600;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.3em;
     text-shadow: 0 0 10px #00b3ff, 0 0 20px #00b3ff, 0 0 40px #00b3ff,
         0 0 80px #00b3ff, 0 0 120px #00b3ff;
     }
