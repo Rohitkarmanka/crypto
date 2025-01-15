@@ -2267,7 +2267,7 @@ body.gros {
 
     body.conus {
         min-height: 100vh;
-        background-image: url(mnkl.jpg);
+        background-image: url(head.jpg);
         background-size: cover;
         background-position: center;
         display: flex;
